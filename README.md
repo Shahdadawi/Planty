@@ -19,7 +19,7 @@ This API provides a list of plants with their Latin name, common name, family, c
 - Fetch data using `fetch()` from the RapidAPI endpoint.
 - Display a paginated list of plants.
 - Filter plants by **family**.
-- Search by category
+- Search by category Using endpoint
 - View detailed information for each plant.
 - Add plants to a **wishlist** (stored using `localStorage`).
 - Responsive and modern UI with Bootstrap 5.
